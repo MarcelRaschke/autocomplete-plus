@@ -24,7 +24,7 @@
     "coffeelint": "^1.9.7",
     "fs-plus": ">=2.4.0",
     "standard": "^8.3.0",
-    "temp": ">=0.7.0"
+    "temp": ">=0.9.4"
   },
   "providedServices": {
     "autocomplete.watchEditor": {
